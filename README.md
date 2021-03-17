@@ -1,5 +1,7 @@
 # Analysis of Fentanyl samples
 
+[![DOI](https://zenodo.org/badge/298631447.svg)](https://zenodo.org/badge/latestdoi/298631447)
+
 This work is under review at [Talanta](https://www.journals.elsevier.com/talanta).
 
 In this analysis, we try to differentiate between different synthesis routes for fentanyl. The samples were analyzed 4 years after the synthesis. They were stored both at -20 and at room temperature (RT). All the samples were also analyzed after incubation with liver microsomes. This mimics the process that occurs in the body if someone is exposed to fentanyl. The samples were measured with four chromatographic techniques: GC-MS, GC-FID, LC-MS Maxis and LC-MS Orbitrap.
